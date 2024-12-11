@@ -1,0 +1,54 @@
+*{
+    background-color: rgb(228, 171, 27);
+}
+h1{
+    font-size: 30px;
+    font-family: verdana, "DejaVu Sans", sans-serif;
+    text-align: center;
+    
+}
+h1, .kitfo{
+    background-color: red;
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+    color:aqua
+}
+img{
+    height: auto;
+    width: 300px;
+}
+h2.cursive{
+    color:green;
+    font-family: verdana, "Dejavu sans", sans-serif;
+    
+}
+h2.poached{
+    color: green;
+    font-style: italic;
+}
+
+p{
+    color: red;
+}
+ul.index{
+    list-style-type: none;
+
+
+}
+
+li a{
+text-decoration:none;
+font-size: large;
+font-family: Verdana, "DejaVu sans", sans-serif;
+
+}
+
+.index {
+    display: flex;
+    padding-right: 10px;
+}
+
+/* .index li{
+    padding-right: 10px;
+} */
